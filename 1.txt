@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 2qwdsa
-=======
-2qwdsa
->>>>>>> develop
